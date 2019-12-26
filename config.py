@@ -8,4 +8,4 @@ app_host = '0.0.0.0'
 app_port = 31080
 
 DL_ROOT = './static/download/'
-WEB_HOST = "http://0.0.0.0:31080/"
+WEB_HOST = "https://cross4u.kongp3.com/"
