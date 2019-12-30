@@ -19,4 +19,4 @@ def link2file(**kwargs):
     end = time.time()
     delta_time = str(end - start)
     return_val = {"time": delta_time, "link": file_link}
-    return response.success(return_val)
+    return response.success(data=return_val)
